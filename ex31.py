@@ -24,6 +24,8 @@ if door == "1":
         you swing you're mighty sword but fail, missing him by inches.
         The orc looks at you with red fury in his eyes and stabs you in the heart.
         You are now dead.""")
+            #it's here that the code stops, i don't know how to continue it, its supposed to continue so that if you chose option 1 it would branch into what i have written below, once i figure this out
+            # it will continue on if you chose option 2 that will branch out if you chose option 3 it will branch out. But theres something obvious i am missing. 
     
 if orc == "1.":
     print("If you decided to choose option 1 or option 2  congradulations! You aren't dead.")
